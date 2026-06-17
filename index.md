@@ -1,25 +1,40 @@
-Privacy Policy for Deadline Countdown
+# Privacy Policy for Deadline Countdown
 
-Last updated: June 2026
+**Last updated:** June 2026
 
-Deadline Countdown is a simple countdown application that helps users track the number of days remaining until important deadlines.
+Deadline Countdown is a mobile application that helps users track the number of days remaining until important deadlines.
 
-Data Collection
+## Information Collection
 
-Deadline Countdown does not collect, transmit, store, or share any personal information.
+Deadline Countdown does not collect, store, transmit, or share personal information.
 
-Local Storage
+The app does not require users to create an account and does not collect names, email addresses, phone numbers, location data, or other personal information.
 
-Deadline information entered by the user is stored locally on the user's device and is not transmitted to any external servers.
+## Local Storage
 
-Third-Party Services
+Deadline information entered by the user is stored locally on the user's device.
 
-Deadline Countdown does not use:
+## Internet Access
 
-Analytics services
-Advertising services
-User accounts
-Cloud synchronization
-Changes
+The app may access the internet to download public holiday calendar information used for workday calculations.
 
-This privacy policy may be updated in future versions of the application.
+Requests for holiday data are made to third-party holiday data providers. These requests are used solely to retrieve holiday information and are not used to identify users.
+
+## Third-Party Services
+
+The app may communicate with public holiday data providers to retrieve holiday calendars.
+
+The app does not use:
+
+- Advertising networks
+- Analytics services
+- User tracking services
+- Cloud storage of user data
+
+## Data Sharing
+
+No personal information is sold, shared, or disclosed to third parties.
+
+## Changes to This Privacy Policy
+
+This privacy policy may be updated from time to time. Any changes will be published at this URL.
